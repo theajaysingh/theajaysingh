@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theajaysingh
+- 👋 Hi, I’m @theajaysingh currently working as Machine Learning Engineer Intern at Quantiphi.
 - 👀 I’m interested in SDE, Cloud Support, Network Engineer.
 - 🌱 I’m currently learning API development, Angular and AWS.
 - 💞️ I’m looking to collaborate on 
