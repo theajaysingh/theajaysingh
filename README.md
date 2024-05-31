@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @theajaysingh currently working as Machine Learning Engineer Intern at Quantiphi.
-- 👀 I’m interested in SDE, Cloud Support, Network Engineer.
-- 🌱 I’m currently learning API development, Angular and AWS.
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @theajaysingh is currently working as DevOps Engineer
 - 📫 How to reach me ..
-+917007405353 || 
 ajaysinghbcaau@gmail.com
 <!---
 theajaysingh/theajaysingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
