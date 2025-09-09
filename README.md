@@ -2,7 +2,7 @@
 - Technical expertise includes:
 - Container orchestration: Kubernetes (K8s), Amazon Elastic Container Service (ECS), Amazon Elastic Kubernetes Service (EKS)
 - Infrastructure as Code: Terraform, AWS CloudFormation.
-- AWS Services: Identity and Access Management (IAM), Elastic Compute Cloud (EC2), ECR, VPC, ELB, Bedrock, S3
+- AWS Services: IAM, EC2, ECR, FARGATE, VPC, ELB, Bedrock, S3
 - Monitoring & Observability: CloudWatch, Grafana, Prometheus.
 - CI/CD implementation and automation
 - Architecture review and optimization
